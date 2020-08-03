@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/finder-images-on-react/static/css/main.f9a1c17e.chunk.css",
+    "main.js": "/finder-images-on-react/static/js/main.3e56261a.chunk.js",
+    "main.js.map": "/finder-images-on-react/static/js/main.3e56261a.chunk.js.map",
+    "runtime-main.js": "/finder-images-on-react/static/js/runtime-main.5216e8da.js",
+    "runtime-main.js.map": "/finder-images-on-react/static/js/runtime-main.5216e8da.js.map",
+    "static/js/2.126c4163.chunk.js": "/finder-images-on-react/static/js/2.126c4163.chunk.js",
+    "static/js/2.126c4163.chunk.js.map": "/finder-images-on-react/static/js/2.126c4163.chunk.js.map",
+    "index.html": "/finder-images-on-react/index.html",
+    "precache-manifest.48e79097b2fd7b2a5917534b3e61c302.js": "/finder-images-on-react/precache-manifest.48e79097b2fd7b2a5917534b3e61c302.js",
+    "service-worker.js": "/finder-images-on-react/service-worker.js",
+    "static/css/main.f9a1c17e.chunk.css.map": "/finder-images-on-react/static/css/main.f9a1c17e.chunk.css.map",
+    "static/media/loading.gif": "/finder-images-on-react/static/media/loading.8fdc7be1.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5216e8da.js",
+    "static/js/2.126c4163.chunk.js",
+    "static/css/main.f9a1c17e.chunk.css",
+    "static/js/main.3e56261a.chunk.js"
+  ]
+}
